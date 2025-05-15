@@ -1,0 +1,31 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    background-color: powderblue;
+}
+h1{
+    color :azure;
+    -webkit-text-stroke: 1px black;
+}
+p{
+    color :darkgoldenrod;
+    margin-top: 50px;
+}
+button{
+    background-color: lightcoral;
+    color : brown;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer; 
+    padding: 8px 16px;
+}
+div{
+    margin-top: 10px;
+}
+.round-btn{
+    border-radius: 10px;
+}
+.round-btn:hover{
+    background-color: azure;
+}
